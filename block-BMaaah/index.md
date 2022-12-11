@@ -45,7 +45,7 @@ Write code to execute below expressions.
 
 13. Update an article's title using ``$set and without $set.
 
-- Write the differences here ?
+- Write the differences here ?// by using $set it update specific set of document while not using $set it simply replaces the previous document with new sets of document.
 
 13. find an article using title and increment it's auhtor's age by 5.
 
